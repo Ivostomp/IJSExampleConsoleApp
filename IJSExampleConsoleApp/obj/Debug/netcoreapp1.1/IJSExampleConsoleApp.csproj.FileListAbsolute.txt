@@ -1,0 +1,9 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\bin\Debug\netcoreapp1.1\IJSExampleConsoleApp.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\bin\Debug\netcoreapp1.1\IJSExampleConsoleApp.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\bin\Debug\netcoreapp1.1\IJSExampleConsoleApp.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\bin\Debug\netcoreapp1.1\IJSExampleConsoleApp.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\bin\Debug\netcoreapp1.1\IJSExampleConsoleApp.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\obj\Debug\netcoreapp1.1\IJSExampleConsoleApp.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\obj\Debug\netcoreapp1.1\IJSExampleConsoleApp.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\obj\Debug\netcoreapp1.1\IJSExampleConsoleApp.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Projects\IJSExampleConsoleApp\IJSExampleConsoleApp\obj\Debug\netcoreapp1.1\IJSExampleConsoleApp.csprojResolveAssemblyReference.cache
